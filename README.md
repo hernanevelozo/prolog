@@ -30,15 +30,17 @@ Neste seminário iremos ter uma visão abrangente da linguagem Prolog, cujo obje
 * Comandos (recursão)
 * Aplicações de Amarrações
 
-### (λ) O Cálculo Lambda
+### (λ) O Cálculo Lambda?
 
 ### Cases (Aplicações)
 
 * Introdução à Inteligência Artificial
 
-### Melhorando a Linguagem: Turbo Prolog e Visual Prolog
+### Aprimorando a Linguagem: Turbo Prolog e Visual Prolog
 
 ### ShowCase
+
+### Conclusão
 
 
 ## Referências bibliográficas
