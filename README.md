@@ -1,46 +1,20 @@
 # Linguagens de Programação
 
-<img align="center" alt="Hernane-Photoshop" height="90" width="100" src="https://user-images.githubusercontent.com/88516429/192560913-6b30bc8c-562f-4012-b6fe-4b8687c373d7.png">        Seminários: PROLOG
+<img align="center" alt="Hernane-Photoshop" height="90" width="100" src="https://user-images.githubusercontent.com/88516429/192560913-6b30bc8c-562f-4012-b6fe-4b8687c373d7.png">        Seminários: PROLOG (logo simbólica do SWI)
 <br>
 
 Neste seminário iremos ter uma visão abrangente da linguagem Prolog, cujo objetivo é ser lógica.
 
 
 ## Recursos que compôem esse seminário:
-* Artigo Ciêntifico 
-* Material de Apoio
-* Keynotes
-* Dinâmica: Q&A
+* [Artigo Escrito](https://www.escavador.com/sobre/486266/marco-rodrigo-costa)
+* [Material de Apoio](https://www.escavador.com/sobre/486266/marco-rodrigo-costa)
 
 
 ### Professor
 * [Marco Rodrigo Costa](https://www.escavador.com/sobre/486266/marco-rodrigo-costa)
 
-## Resumo
-
-### Tipo de Polimorfismo 
-
-* Gramática, Sintaxe e Semântica
-* Paradigmas
-* Variáveis
-* Aplicação dos Mecanismos
-* Valores
-* Tipagem
-* Aplicações de Armazenamento
-* Comandos (recursão)
-* Aplicações de Amarrações
-
-### (λ) O Cálculo Lambda?
-
-### Cases (Aplicações)
-
-* Introdução à Inteligência Artificial
-
-### Aprimorando a Linguagem: Turbo Prolog e Visual Prolog
-
-### ShowCase
-
-### Conclusão
+Nascida sem o foco de ser implementada como uma linguagem de programação, mas sim de ser uma ferramenta de processamento de linguagem natural, especificamente para o francês, eis que surge a ideia de Prolog no começo de julho de 1970, sendo consolidada como linguagem enquadrada no paradigma lógico matemático no ano de 1973. Possui orientação direcionada por dados (objetos), com melhor aplicação em processos heurístico e suporte a dados complexos
 
 
 ## Referências bibliográficas
