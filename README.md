@@ -7,8 +7,8 @@ Neste seminário iremos ter uma visão abrangente da linguagem Prolog, cujo obje
 
 
 ## Recursos que compôem esse seminário:
-* [Artigo em PDF ](https://github.com/hernanevelozo/prolog/tree/main/Recursos)
-* [Slides em PDF ](https://github.com/hernanevelozo/prolog/tree/main/Recursos)
+* [Artigo em PDF ](https://github.com/hernanevelozo/prolog/blob/main/Recursos/20221006_LP_Semin%C3%A1rios_Prolog.pdf)
+* [Slides em PDF ](https://github.com/hernanevelozo/prolog/blob/main/Recursos/20221124_LP_Semin%C3%A1rios_Prolog.pdf)
 
 
 ### Professor
