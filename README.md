@@ -14,6 +14,7 @@ Neste seminário iremos ter uma visão abrangente da linguagem Prolog, cujo obje
 ### Professor
 * [Marco Rodrigo Costa](https://www.escavador.com/sobre/486266/marco-rodrigo-costa)
 
+## Resumo
 Nascida sem o foco de ser implementada como uma linguagem de programação, mas sim de ser uma ferramenta de processamento de linguagem natural, especificamente para o francês, eis que surge a ideia de Prolog no começo de julho de 1970, sendo consolidada como linguagem enquadrada no paradigma lógico matemático no ano de 1973. Possui orientação direcionada por dados (objetos), com melhor aplicação em processos heurístico e suporte a dados complexos
 
 
