@@ -7,8 +7,8 @@ Neste seminário iremos ter uma visão abrangente da linguagem Prolog, cujo obje
 
 
 ## Recursos que compôem esse seminário:
-* [Artigo Escrito](https://www.escavador.com/sobre/486266/marco-rodrigo-costa)
-* [Material de Apoio](https://www.escavador.com/sobre/486266/marco-rodrigo-costa)
+* [Artigo em PDF ](https://github.com/hernanevelozo/prolog/tree/main/Recursos)
+* [Slides em PDF ](https://github.com/hernanevelozo/prolog/tree/main/Recursos)
 
 
 ### Professor
